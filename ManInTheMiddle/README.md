@@ -1,5 +1,5 @@
 Sniffing the traffic of a particular host in the local 
-network by spoofing the ARP packet.
+network by spoofing the ARP packet using raw sockets.
 
 Platform: Linux
 Language: Python
