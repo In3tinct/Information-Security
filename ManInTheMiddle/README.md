@@ -8,5 +8,4 @@ Language: Python
 Test: Run the script and use urlsnarf to monitor 
 the web traffic.
 
-Will be implementing the web traffic monitoring within 
-the project later.
+Will be implementing web request monitoring within the project. Also DNS spoofing could be introduced.
