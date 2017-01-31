@@ -5,3 +5,5 @@ Language used: Python
 Libraries: urllib2, BeautifulSoup
 
 Usage: python webcrawler.py http://www.google.com
+
+Extension: Need to work on searching for a specific word while crawling
