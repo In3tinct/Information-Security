@@ -1,0 +1,6 @@
+1)ltrace gifted
+It will provide us the info that the executable is 
+using strcmp to compare the flag input, 
+
+2)To get the full flag use
+strings gifted | grep "AlexCTF"
