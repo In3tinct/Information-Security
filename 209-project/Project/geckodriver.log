@@ -1,0 +1,168 @@
+1494368730206	geckodriver	INFO	Listening on 127.0.0.1:40545
+1494368731214	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Br9VBckNvMkA
+1494368731220	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494368731227	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43431
+
+(firefox:1863): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494368735283 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: loginInput
+
+(firefox:1863): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494368735451 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: loginInput
+1494368737849 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+
+(firefox:1863): GLib-GObject-WARNING **: /build/glib2.0-EvFudu/glib2.0-2.42.1/./gobject/gsignal.c:3410: signal name 'load_complete' is invalid for instance '0x923ec6a0' of type 'MaiAtkType1'
+
+(firefox:1863): GLib-GObject-WARNING **: /build/glib2.0-EvFudu/glib2.0-2.42.1/./gobject/gsignal.c:3410: signal name 'load_complete' is invalid for instance '0x921db070' of type 'MaiAtkType1'
+1494368741542 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494368742633 Marionette: Element is missing an accesible name -> id: , tagName: TEXTAREA, className: 
+
+(firefox:1863): GLib-GObject-WARNING **: /build/glib2.0-EvFudu/glib2.0-2.42.1/./gobject/gsignal.c:3410: signal name 'load_complete' is invalid for instance '0x9246b040' of type 'MaiAtkType1'
+1494368745167	geckodriver	INFO	Listening on 127.0.0.1:58798
+1494368746164	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.L9Lj76fvho3S
+1494368746166	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494368746180	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38452
+1494368994376	geckodriver	INFO	Listening on 127.0.0.1:37176
+1494368995382	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uHOBj6p7qX6o
+1494368995388	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494368995394	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54424
+
+(firefox:2042): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494368999626 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: loginInput
+
+(firefox:2042): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494368999724 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: loginInput
+1494369004299 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369010533 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369016841 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369025059 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369031283 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369058899	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1494369202153	geckodriver	INFO	Listening on 127.0.0.1:52201
+1494369203169	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mP90mDnI31lo
+1494369203181	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494369203209	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52461
+
+(firefox:2176): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494369207539 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: loginInput
+
+(firefox:2176): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494369207649 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: loginInput
+1494369212204 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369218481 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369224707 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369232959 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369239165 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369351443	geckodriver	INFO	Listening on 127.0.0.1:60068
+1494369352449	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Vav14PcxjqUa
+1494369352454	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494369352461	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50806
+
+(firefox:2271): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494369355670 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: loginInput
+
+(firefox:2271): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494369355794 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: loginInput
+1494369360262 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369366496 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369372711 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369381057 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369387333 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369394633	geckodriver	INFO	Listening on 127.0.0.1:55171
+1494369395636	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.XemCTcHnNi2u
+1494369395641	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494369395647	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60221
+
+(firefox:2327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494369400888 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: loginInput
+
+(firefox:2327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494369401110 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: loginInput
+1494369403798 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+
+(firefox:2327): GLib-GObject-WARNING **: /build/glib2.0-EvFudu/glib2.0-2.42.1/./gobject/gsignal.c:3410: signal name 'load_complete' is invalid for instance '0x92757880' of type 'MaiAtkType1'
+
+(firefox:2327): GLib-GObject-WARNING **: /build/glib2.0-EvFudu/glib2.0-2.42.1/./gobject/gsignal.c:3410: signal name 'load_complete' is invalid for instance '0x9253aa90' of type 'MaiAtkType1'
+1494369407663 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: 
+1494369408801 Marionette: Element is missing an accesible name -> id: , tagName: TEXTAREA, className: 
+
+(firefox:2327): GLib-GObject-WARNING **: /build/glib2.0-EvFudu/glib2.0-2.42.1/./gobject/gsignal.c:3410: signal name 'load_complete' is invalid for instance '0x9bdfd970' of type 'MaiAtkType1'
+1494369415039	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1494369459066	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1494370072094	geckodriver	INFO	Listening on 127.0.0.1:57685
+1494370073105	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ez7Pm5WaqR1U
+1494370073114	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494370073126	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44855
+
+(firefox:2550): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370078559 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: loginInput
+
+(firefox:2550): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370078741 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: loginInput
+
+(firefox:2550): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2550): GLib-GObject-WARNING **: /build/glib2.0-EvFudu/glib2.0-2.42.1/./gobject/gsignal.c:3410: signal name 'load_complete' is invalid for instance '0xa17f89a0' of type 'MaiAtkType119'
+1494370137773	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1494370144375	geckodriver	INFO	Listening on 127.0.0.1:34298
+1494370145373	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SGSTb3wHeWZC
+1494370145374	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494370145384	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42334
+
+(firefox:2642): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370149420 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: loginInput
+
+(firefox:2642): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370149651 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: loginInput
+
+(firefox:2642): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370208679	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1494370294799	geckodriver	INFO	Listening on 127.0.0.1:48889
+1494370295795	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AQ4WQpTUyjaX
+1494370295797	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494370295803	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36297
+
+(firefox:2739): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370300812 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: loginInput
+
+(firefox:2739): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370300994 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: loginInput
+
+(firefox:2739): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370360127	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1494370576402	geckodriver	INFO	Listening on 127.0.0.1:47766
+1494370577402	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vt5N7Gq3ATGq
+1494370577404	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494370577407	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54721
+
+(firefox:2834): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370581988 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: loginInput
+
+(firefox:2834): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370582329 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: loginInput
+
+(firefox:2834): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370634765	geckodriver	INFO	Listening on 127.0.0.1:45412
+1494370635765	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.c2MKtAs5VOVe
+1494370635766	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494370635769	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59715
+
+(firefox:2936): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370640437 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: loginInput
+
+(firefox:2936): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370640591 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: loginInput
+1494370641202	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+
+(firefox:2936): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370699228	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1494370741170	geckodriver	INFO	Listening on 127.0.0.1:35591
+1494370742172	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.W6PKvS7MDnPJ
+1494370742173	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494370742175	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57366
+
+(firefox:3052): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370746551 Marionette: Element is missing an accesible name -> id: , tagName: INPUT, className: loginInput
+
+(firefox:3052): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494370746751 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: , tagName: INPUT, className: loginInput
+1494370805605	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
