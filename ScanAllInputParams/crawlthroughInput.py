@@ -12,6 +12,7 @@ linksWithInputParam=set()
 def addLinksWithInputParam(link):
 	if "?" in link:
 		linksWithInputParam.add(link)
+		print ("Printing URL with params")
 		print (linksWithInputParam)
 
 def do_stuff(q):
@@ -27,11 +28,11 @@ def do_stuff(q):
 				#were having images and src in it
 				#Ignoring if its an anchor tag having images inside				
 				if len(links.find_all("img"))>0:
-					print ("Images")
+					#print ("Images")
 					continue
 				#all different file extensions could be replaced				
 				if "pdf" in str(links):
-					print ("Escaping PDF")
+					#print ("Escaping PDF")
 					continue
 				if links.has_attr('href'):
 					linkUrl=links['href']
@@ -43,11 +44,11 @@ def do_stuff(q):
 					#For conditions where <a href='index.php?id=21'> and target is different from baseURL(Since no redirection is 						handled yet), Target Url=http://www.sallatykka.com/web/index.php, so have to map /web/ directory, so i do /../
 					if not linkUrl.startswith('http') and "www" not in linkUrl:
 						linkUrl=target+"/../"+linkUrl
-						print ("Incomplete: "+linkUrl)
+						#print ("Incomplete: "+linkUrl)
 
 					#skipping the loop if not of same domain
 					if not linkUrl.startswith(baseURL):
-						print ("Escaping other domain")
+						#print ("Escaping other domain")
 						continue
 
 	  				#Only letting visit the links which have not been
@@ -57,7 +58,7 @@ def do_stuff(q):
 						q.put(linkUrl)		
 						#print (linkUrl)
 						addLinksWithInputParam(linkUrl)
-			print ("queue size before"+ str(q.qsize()))			
+			#print ("queue size before"+ str(q.qsize()))			
 			#q.task_done()
 			#print ("queue size after"+ str(q.qsize()))
 							
