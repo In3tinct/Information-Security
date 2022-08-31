@@ -1,7 +1,3 @@
-# Python For Offensive PenTest: A Complete Practical Course - All rights reserved 
-# Follow me on LinkedIn https://jo.linkedin.com/in/python2
-
-
 # Basic HTTP Server
 
 
